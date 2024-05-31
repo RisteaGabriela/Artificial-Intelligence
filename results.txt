@@ -1,0 +1,84 @@
+Input2:
+DFS TSP Result:
+Path: [0, 1, 5, 9, 4, 3, 2, 7, 8, 6, 0]
+Cost: 304
+Runtime: 647.861200 ms
+
+Uniform Cost TSP Result:
+Path: [0, 1, 5, 9, 4, 3, 2, 7, 8, 6, 0]
+Cost: 304
+Runtime: 5868.312500 ms
+
+A* TSP Result:
+Path: [0, 1, 5, 9, 4, 3, 2, 7, 8, 6, 0]
+Cost: 304
+Runtime: 6932.234300 ms
+
+
+Input:
+DFS TSP Result:
+Path: [0, 3, 1, 2, 4, 0]
+Cost: 135
+Runtime: 0.060900 ms
+
+Uniform Cost TSP Result:
+Path: [0, 3, 1, 2, 4, 0]
+Cost: 135
+Runtime: 0.069900 ms
+
+A* TSP Result:
+Path: [0, 3, 1, 2, 4, 0]
+Cost: 135
+Runtime: 0.121000 ms
+
+Input3:
+DFS TSP Result:
+Path: [0, 4, 3, 1, 6, 10, 8, 7, 9, 2, 5, 0]
+Cost: 424
+Runtime: 5930.831100 ms
+
+Uniform Cost TSP Result:
+Path: [0, 4, 3, 1, 6, 10, 8, 7, 9, 2, 5, 0]
+Cost: 424
+Runtime: 84430.437400 ms
+
+A* TSP Result:
+Path: [0, 4, 3, 1, 6, 10, 8, 7, 9, 2, 5, 0]
+Cost: 424
+Runtime: 103204.218700 ms
+
+
+Input4:
+DFS TSP Result:
+Path: [0, 4, 3, 2, 8, 1, 7, 5, 6, 0]
+Cost: 1165
+Runtime: 77.266600 ms
+
+Uniform Cost TSP Result:
+Path: [0, 4, 3, 2, 8, 1, 7, 5, 6, 0]
+Cost: 1165
+Runtime: 265.710400 ms
+
+A* TSP Result:
+Path: [0, 4, 3, 2, 8, 1, 7, 5, 6, 0]
+Cost: 1165
+Runtime: 470.809000 ms
+
+Input5:
+DFS TSP Result:
+Path: [0, 1, 5, 6, 7, 3, 2, 4, 0]
+Cost: 1620
+Runtime: 7.727700 ms
+
+Uniform Cost TSP Result:
+Path: [0, 1, 5, 6, 7, 3, 2, 4, 0]
+Cost: 1620
+Runtime: 21.928100 ms
+
+A* TSP Result:
+Path: [0, 1, 5, 6, 7, 3, 2, 4, 0]
+Cost: 1620
+Runtime: 35.341900 ms
+
+
+
