@@ -13,7 +13,7 @@ git clone https://github.com/RisteaGabriela/Artificial-Intelligence.git
 ```bash
 cd Artificial-Intelligence-main
 ```
-##Run code:
+## Run code:
 ```bash
 python main.py
 ```
